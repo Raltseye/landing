@@ -428,7 +428,7 @@
 				'Salvo em indicação ao contrário, o conteúdo deste site está licenciado sob ' .
 				'<a href="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</a>.',
 			'sv' => 'Miraheze Limited <br />' .
-				'Ett aktiebolag med begränsad vinstutdelning registrerad i England och Wales förtagsnummer 12323854  <br />' .
+				'Ett aktiebolag med begränsad vinstutdelning registrerat i England och Wales förtagsnummer 12323854  <br />' .
 				'Om inget annat anges är innehållet licensierat under ' .
 				'<a href="https://creativecommons.org/licenses/by-sa/4.0/">Erkännande-DelaLike 4.0 Internationell (CC BY-SA 4.0)</a>.',
 			'th' => 'Miraheze Limited<br />' .
