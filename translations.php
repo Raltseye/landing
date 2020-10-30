@@ -32,6 +32,7 @@
 			'ko' => '특징',
 			'pl' => 'Funkcje',
 			'pt' => 'Recursos',
+			'sv' => 'Funktioner',
 			'th' => 'คุณสมบัติ',
 			'zh-hans' => '特点',
 			'zh-hant' => '特點',
@@ -43,6 +44,7 @@
 			'ko' => '소개',
 			'pl' => 'O nas',
 			'pt' => 'Sobre',
+			'sv' => 'Om oss',
 			'th' => 'เกี่ยวกับ',
 			'zh-hans' => '简介',
 			'zh-hant' => '簡介',
@@ -57,6 +59,7 @@
 			'en' => 'Blog',
 			'ja' => 'ブログ',
 			'ko' => '블로그',
+			'sv' => 'Blogg',
 			'th' => 'บล็อก',
 			'zh-hans' => '博客',
 			'zh-hant' => '網誌',
@@ -79,6 +82,7 @@
 			'ko' => '기부',
 			'pl' => 'Przekaż darowiznę',
 			'pt' => 'Doar',
+			'sv' => 'Donera',
 			'th' => 'บริจาค',
 			'tr' => 'Bağış yap',
 			'zh-hans' => '捐款',
@@ -94,6 +98,7 @@
 			'ko' => 'Miraheze에 오신 것을 환영합니다!',
 			'pl' => 'Witaj na Miraheze!',
 			'pt' => 'Bem-vindo(a) ao Miraheze!',
+			'sv' => 'Välkommen till Miraheze',
 			'th' => 'ยินดีต้อนรับสู่ Miraheze!',
 			'tr' => "Miraheze'ye hoş geldiniz",
 			'zh-hans' => '欢迎來到 Miraheze',
@@ -109,6 +114,7 @@
 			'ko' => 'Miraheze는 무료로 위키 공동체를 제공한다는 사명을 가진 비영리 단체입니다.',
 			'pl' => 'Miraheze to organizacja non-profit, z misją bycia darmową farmą wiki skupioną wokół społeczności.',
 			'pt' => 'Miraheze é uma organização sem fins lucrativos, com a missão de proporcionar uma farm de wikis gratuita e centrada em sua comunidade.',
+			'sv' => 'Miraheze är ett icke-vinstdrivande företag, med målsättningen att tillhandahålla ett gratis wikihotell med fokus på gemenskapen',
 			'th' => 'Miraheze เป็นโครงการไม่แสวงหาผลกำไร โดยมีพันธกิจเป็นที่รวบรวมวิกิต่าง ๆ โดยไม่เสียค่าใข้จ่าย',
 			'tr' => 'Miraheze kâr amacı gütmeyen, topluluk merkezli bir wiki çiftliği sağlama misyonudur.',
 			'zh-hant' => 'Miraheze 是非營利的，旨在提供一個免費、以社群為中心的 Wiki 農場',
@@ -120,6 +126,7 @@
 			'ko' => '지금 가입하세요!',
 			'pl' => 'Dołącz dzisiaj!',
 			'pt' => 'Junte-se hoje!',
+			'sv' => 'Anslut idag!',
 			'th' => 'เข้าร่วมกับเราวันนี้',
 			'zh-hant' => '現在就加入我們！',
 		],
@@ -133,6 +140,7 @@
 			'ko' => '오늘 기부해보세요!',
 			'pl' => 'Przekaż darowiznę',
 			'pt' => 'Doe hoje!',
+			'sv' => 'Donera idag!',
 			'th' => 'หรือบริจาค!',
 			'tr' => 'Bugün bağış yapın!',
 			'zh-hans' => '立即捐款！',
@@ -145,6 +153,7 @@
 			'ko' => '특징',
 			'pl' => 'Funkcje',
 			'pt' => 'Recursos',
+			'sv' => 'Funktioner',
 			'th' => 'คุณลักษณะในวิกิ',
 			'zh-hans' => '特点',
 			'zh-hant' => '特點',
@@ -169,6 +178,9 @@
 			'pt' => 'Miraheze usa o mesmo software que a Wikipédia, <a href="https://www.mediawiki.org">MediaWiki!</a> '.
 				'Você pode fazer qualquer coisa, desde enviar arquivos como imagens ou vídeos, até escrever artigos ou blogs. '.
 				'Temos mais de 200 extensões e mais de 15 skins (temas) para customizar sua experiência com o MediaWiki!',
+			'sv' => 'Miraheze kör på samma programvara som Wikipedia, <a href="https://www.mediawiki.org">MediaWiki!</a> ' .
+				'Du kan göra allt från att ladda upp filer som bilder och videor, till att skriva artiklar eller bloggar ' .
+				'Vi har över 200 tillägg och över 15 utseenden att välja mellan för att skräddarsy din upplevelse med MediaWiki!',
 			'th' => 'Miraheze ใช้ซอร์ฟแวร์<a href="https://www.mediawiki.org">มีเดียวิกิ</a>ซึ่งเป็นซอร์ฟแวร์ตัวเดียวกับกับวิกิพีเดีย '.
 				'ซึ่งทำได้ตั้งแต่อัพโหลดรูปไปจนถึงเขียนบทความหรือบล็อก '.
 				'และเรายังมีส่วนขยายและสกินที่สามารถติดตั้งเพิ่มเติมเพื่อเพิ่มความสามารถให้วิกิได้อีกด้วยมีเดียวิกิ',
@@ -181,6 +193,7 @@
 			'ja' => '非営利',
 			'ko' => '비영리',
 			'pt' => 'Sem fins lucrativos',
+			'sv' => 'Icke-vinstdrivande',
 			'th' => 'ไม่แสวงหาผลกำไร',
 			'zh-hans' => '非营利',
 			'zh-hant' => '非營利',
@@ -198,6 +211,8 @@
 				'Zapewniamy 100% darmowe wiki jako organizacja non-profit, która konserwuje serwery i samodzielnie rozwija swoje rozszerzenia.',
 			'pt' => 'Miraheze está registrado como Miraheze Limited no Reino Unido. '.
 				'Providenciamos wikis 100% gratuitas, sem fins lucrativos, que mantêm os servidores e continua o desenvolvimento de nossas extensões domésticas.',
+			'sv' => 'Miraheze är registrerad som Miraheze Limited i Storbritannien. ' .
+				'Vi tillhandahåller 100% gratis wikier som ett icke-vinstdrivande företag som underhåller servrarna och tar hand om utvecklingen av våra egna tillägg.',
 			'th' => 'Meraheze จดทะเบียนในชื่อ Miraheze Limited ในสหราชอาณาจักร '.
 				'ทำให้วิกิในเครือของเราทำงานโดยไม่เสียค่าใช้จ่ายใด ๆ ในฐานะองค์กรไม่แสวงหาผลกำไร โดยโฮตสต์ ดูแลรักษา และพัฒนาภายในบ้านของเราเอง',
 		],
@@ -211,6 +226,7 @@
 			'ko' => '커뮤니티',
 			'pl' => 'Społeczność',
 			'pt' => 'Comunidade',
+			'sv' => 'Gemenskapen',
 			'th' => 'ชุมชน',
 			'tr' => 'Topluluk',
 			'zh-hant' => '社群',
@@ -234,6 +250,8 @@
 				'Pozwala nam to na osiągnięcie najlepszych rozwiązań dla użytkowników, pozwalając im się uczyć!',
 			'pt' => 'Como comunidade, todos trabalhamos juntos para alcançar um objetivo em comum em ser uma grande wiki farm! '.
 				'Isto nos permite alcançar o melhor resultado possível para todos os usuários ao permiti-los aprender!',
+			'sv' => 'Som en gemenskap arbetar vi alla tillsammans för att uppnå vårt gemensamma mål, att vara ett riktigt bra wikihotell!',
+				'Det låter oss uppnå det bästa möjliga resultatet för våra användare, genom att låta användarna lära sig!',
 			'th' => 'ชุมชนของเราทำงานร่วมกันเพื่อให้บรรลุเป้าหมายหลักในการเป็นแหล่งรวมวิกิที่ยิ่งใหญ่ '.
 				'สิ่งนี้ทำให้เราสามารถให้สิ่งที่ดีที่สุดแก่ผู้ใช้ นั่นคือการให้ผู้ใช้เรียนรู้ด้วยตนเอง'.
 				'อย่างสะดวกที่สุด',
