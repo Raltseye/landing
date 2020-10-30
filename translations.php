@@ -7,6 +7,7 @@
 			'en' => 'Menu',
 			'ja' => 'メニュー',
 			'th' => 'เมนู',
+			'sv' => 'Meny',
 		],
 		'header-menu-home' => [
 			'en' => 'Home',
@@ -18,6 +19,7 @@
 			'ko' => '홈',
 			'pl' => 'Strona główna',
 			'pt' => 'Página principal',
+			'sv' => 'Huvudsida',
 			'th' => 'หน้าหลัก',
 			'tr' => "Ana sayfa",
 			'zh-hans' => '首頁',
